@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Cu.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Cu.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Paste.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Paste.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Mask.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Mask.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-job.gbrjob'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Cu.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Cu.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Paste.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Paste.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-F_Mask.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-B_Mask.gbr'.
+Plotted to 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\smlmc\Documents\Kicad\Push-Pull-Converter\Push_Pull\Push-Pull\Push_Pull-job.gbrjob'.
+Info: Done.
+Info: Done.

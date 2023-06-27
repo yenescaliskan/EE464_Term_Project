@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Push-Pull")(type "KiCad")(uri "${KIPRJMOD}/Push-Pull.pretty")(options "")(descr ""))
+)
