@@ -1,1 +1,2 @@
 # EE464_Term_Project
+In this project, an isolated DC-DC converter (Push-Pull Converter) will be designed and implemented. Required converter will have 12-18V input voltage range and 48V output voltage. Output voltage will have at most 3% voltage ripple and output power rating will be 48W. Deviation of percent output voltage when input voltage is changed from its minimum to maximum will be at most 3%. Deviation of percent output voltage when load current is changed from 10% to 100% will be at most 3%. 
